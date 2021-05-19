@@ -1,0 +1,22 @@
+.im {
+  width: 150px;
+  height: 150px;
+  border-radius: 90%;
+}
+.top {
+  background-color: #94d0cc;
+}
+body {
+  margin: 0;
+}
+h1 {
+margin-top: 0;
+}
+.mid {background-color:#eec4c4;
+  text-align: center;
+ }
+h2{  margin-top: 0;}
+
+.hope{
+background-color:  #f29191;
+}
